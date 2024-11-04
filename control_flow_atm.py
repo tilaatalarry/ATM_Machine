@@ -4,22 +4,19 @@ def atm_program():
     pin = 2508
     attempts = 0
     
-
-    # User Authentication
     while attempts < 3:
         user_pin = input("Please enter your ATM PIN: ")
         
         if user_pin.isdigit() and int(user_pin) == pin:
             print("Access granted.")
-            break  # Break the loop if PIN is correct
+            break 
         else:
             attempts += 1
-            print(f"Incorrect PIN. You have {3 - attempts} attempts left.")
+            print(f"Incorrect 1PIN. You have {3 - attempts} attempts left.")
     else:
         print("Too many incorrect attempts. Access blocked.")
-        return  # Exit the program if blocked
+        return 
 
-    # Main Menu
     while True:
         print("\n--- Main Menu ---")
         print("1. Check Balance")
@@ -51,7 +48,7 @@ def atm_program():
         elif choice == '4':
              new_pin = input("Enter your new 4-digit PIN: ")
              if new_pin.isdigit() and len(new_pin) == 4:
-                 pin = int(new_pin)  # Change the PIN
+                 pin = int(new_pin) 
                  print("Your PIN has been successfully changed.")
              else:
                  print("Invalid PIN. It must be a 4-digit number.")

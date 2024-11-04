@@ -30,6 +30,6 @@ balance, deposit, withdraw, and change their PIN.
 * Python
 
 ## Contributors 
-If you find this mimi project interesting, My partner and I  welcome contributors who are passionate about improving this project! Your insights and expertise can help us enhance functionality, fix issues, and implement new interesting solutions to this problem . If you're interested in collaborating, please reach out and join us in making this project even better!
+If you find this mini project interesting, My partner and I  welcome contributors who are passionate about improving this project! Your insights and expertise can help us enhance functionality, fix issues, and implement new interesting solutions to this problem . If you're interested in collaborating, please reach out and join us in making this project even better!
 
 You can contact us on our E-mails  [Sarah Baidu](mailto:sarahbaidu16@gmail.com) or [Hamdallah Abdallah Waniyaki](mailto:hawaiyaki@gmail.com)

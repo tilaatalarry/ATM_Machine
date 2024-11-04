@@ -1,5 +1,5 @@
 # ATM_Machine
-This repository contains an ATM Mini Project which shows us  the basic functionalities of an Automated Teller Machine (ATM). The application allows users to perform essential banking operations, namely checking account balance, withdrawing cash, and depositing funds. This is designed for educational purposes,to  provide a practical understanding of object-oriented programming concepts, data handling, and user interaction.
+This repository contains an ATM Mini Project which shows us the basic functionalities of an Automated Teller Machine (ATM). The application allows users to perform essential banking operations, namely checking account balance, withdrawing cash, and depositing funds. This is designed for educational purposes, to provide a practical understanding of object-oriented programming concepts, data handling, and user interaction.
 
 
 ![Image of an ATM](https://th.bing.com/th/id/OIP.Tf_DqsYeTdzkFM78TY9aLAHaE4?w=246&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7)
@@ -30,6 +30,6 @@ balance, deposit, withdraw, and change their PIN.
 * Python
 
 ## Contributors 
-If you find this mini project interesting, My partner and I  welcome contributors who are passionate about improving this project! Your insights and expertise can help us enhance functionality, fix issues, and implement new interesting solutions to this problem . If you're interested in collaborating, please reach out and join us in making this project even better!
+If you find this mini project interesting, my partner and I welcome contributors who are passionate about improving this project! Your insights and expertise can help us enhance functionality, fix issues, and implement new interesting solutions to this problem . If you're interested in collaborating, please reach out and join us in making this project even better!
 
-You can contact us on our E-mails  [Sarah Baidu](mailto:sarahbaidu16@gmail.com) or [Hamdallah Abdallah Waniyaki](mailto:hawaiyaki@gmail.com)
+You can contact us on our e-mails [Sarah Baidu](mailto:sarahbaidu16@gmail.com) or [Hamdallah Abdallah Waniyaki](mailto:hawaiyaki@gmail.com)
